@@ -5,6 +5,8 @@
 ## (c) Copyright 2020. Intelligent Racing Inc. Not permitted for commercial use
 
 # Please do <pip3 install matplotlib> and <pip3 install pillow> first
+
+
 from matplotlib import image
 from matplotlib import pyplot
 import os
