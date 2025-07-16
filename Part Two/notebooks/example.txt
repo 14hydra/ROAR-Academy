@@ -1,0 +1,4 @@
+Hello, Python!
+This is a test file.
+We are learning file operations.
+This line was appended.
