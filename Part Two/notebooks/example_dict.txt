@@ -1,0 +1,4 @@
+name: ROAR Academy
+course: Python
+level: Advanced
+topics: ['File Handling', 'Data Structures', 'Error Handling']
